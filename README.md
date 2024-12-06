@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning Flutter and Python 
 
-[Profile Views](https://visitcount.vercel.app/badge?page=JanathGunarathna&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JanathGunarathna&label=Profile%20views&color=0e75b6&style=flat" alt="JanathGunarathna" />
+</p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JanathGunarathna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/janath-gunarathna-69533020a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/profile.php?id=100009562894176)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_.jana.th_//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/janathGunarathna)  
 
