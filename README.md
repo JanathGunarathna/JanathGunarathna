@@ -8,7 +8,7 @@
 - ⚡ In my free time, I enjoy gaming.
 
 
-<p align="right">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=JanathGunarathna&label=Profile%20views&color=0e75b6&style=flat" alt="JanathGunarathna" />
 </p>
 
