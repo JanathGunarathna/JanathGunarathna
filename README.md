@@ -7,9 +7,8 @@
 - 📚 I'm currently learning Python and Flutter.
 - ⚡ In my free time, I enjoy gaming.
 
-- 🌱 I’m currently learning Flutter and Python 
 
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=JanathGunarathna&label=Profile%20views&color=0e75b6&style=flat" alt="JanathGunarathna" />
 </p>
 
